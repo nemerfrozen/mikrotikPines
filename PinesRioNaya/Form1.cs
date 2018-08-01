@@ -106,7 +106,7 @@ namespace PinesRioNaya
             mikrotik mikrotik = new mikrotik(ip,port);
 
             consola.Items.Add("conectandose a: "+ip);
-            if (!mikrotik.Login("jesus", "j3sus1"))
+            if (!mikrotik.Login("usuario", "pass"))
             {
                 MessageBox.Show("no conecto");
                 mikrotik.Close();
@@ -146,7 +146,7 @@ namespace PinesRioNaya
             mikrotik mikrotik = new mikrotik(ip, port);
 
             consola.Items.Add("conectandose a: " + ip);
-            if (!mikrotik.Login("jesus", "j3sus1"))
+            if (!mikrotik.Login("usaurio", "pass"))
             {
                 MessageBox.Show("no conecto");
                 mikrotik.Close();
@@ -186,7 +186,7 @@ namespace PinesRioNaya
             mikrotik mikrotik = new mikrotik(ip, port);
 
             consola.Items.Add("conectandose a: " + ip);
-            if (!mikrotik.Login("jesus", "j3sus1"))
+            if (!mikrotik.Login("usuario", "pass"))
             {
                 MessageBox.Show("no conecto");
                 mikrotik.Close();
@@ -266,7 +266,7 @@ namespace PinesRioNaya
             mikrotik mikrotik = new mikrotik(ip, port);
 
             consola.Items.Add("conectandose a: " + ip);
-            if (!mikrotik.Login("jesus", "j3sus1"))
+            if (!mikrotik.Login("usuario", "pass"))
             {
                 MessageBox.Show("no conecto");
                 mikrotik.Close();
@@ -306,7 +306,7 @@ namespace PinesRioNaya
             mikrotik mikrotik = new mikrotik(ip, port);
 
             consola.Items.Add("conectandose a: " + ip);
-            if (!mikrotik.Login("jesus", "j3sus1"))
+            if (!mikrotik.Login("usuario", "pass"))
             {
                 MessageBox.Show("no conecto");
                 mikrotik.Close();
@@ -346,7 +346,7 @@ namespace PinesRioNaya
             mikrotik mikrotik = new mikrotik(ip, port);
 
             consola.Items.Add("conectandose a: " + ip);
-            if (!mikrotik.Login("jesus", "j3sus1"))
+            if (!mikrotik.Login("usuario", "pass"))
             {
                 MessageBox.Show("no conecto");
                 mikrotik.Close();
