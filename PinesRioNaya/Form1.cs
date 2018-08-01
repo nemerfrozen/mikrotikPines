@@ -12,8 +12,8 @@ namespace PinesRioNaya
 {
     public partial class Form1 : Form
     {
-        public string ip = "186.147.237.13";
-        public int port = 8729; 
+        public string ip = "tu ip";
+        public int port = 8728; 
 
         public Form1()
         {
@@ -26,7 +26,7 @@ namespace PinesRioNaya
             mikrotik mikrotik = new mikrotik(ip,port);
 
             consola.Items.Add("conectandose a:"+ip);
-            if (!mikrotik.Login("jesus", "j3sus1"))
+            if (!mikrotik.Login("usuario", "clave"))
             {
                 MessageBox.Show("no conecto");
                 mikrotik.Close();
