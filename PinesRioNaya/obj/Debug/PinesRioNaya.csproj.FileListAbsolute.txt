@@ -1,0 +1,11 @@
+C:\Users\pc2\Documents\Visual Studio 2017\Projects\PinesRioNaya\PinesRioNaya\bin\Debug\PinesRioNaya.exe.config
+C:\Users\pc2\Documents\Visual Studio 2017\Projects\PinesRioNaya\PinesRioNaya\bin\Debug\PinesRioNaya.exe
+C:\Users\pc2\Documents\Visual Studio 2017\Projects\PinesRioNaya\PinesRioNaya\bin\Debug\PinesRioNaya.pdb
+C:\Users\pc2\Documents\Visual Studio 2017\Projects\PinesRioNaya\PinesRioNaya\obj\Debug\PinesRioNaya.csprojResolveAssemblyReference.cache
+C:\Users\pc2\Documents\Visual Studio 2017\Projects\PinesRioNaya\PinesRioNaya\obj\Debug\PinesRioNaya.Form1.resources
+C:\Users\pc2\Documents\Visual Studio 2017\Projects\PinesRioNaya\PinesRioNaya\obj\Debug\PinesRioNaya.Form2.resources
+C:\Users\pc2\Documents\Visual Studio 2017\Projects\PinesRioNaya\PinesRioNaya\obj\Debug\PinesRioNaya.Properties.Resources.resources
+C:\Users\pc2\Documents\Visual Studio 2017\Projects\PinesRioNaya\PinesRioNaya\obj\Debug\PinesRioNaya.csproj.GenerateResource.Cache
+C:\Users\pc2\Documents\Visual Studio 2017\Projects\PinesRioNaya\PinesRioNaya\obj\Debug\PinesRioNaya.csproj.CoreCompileInputs.cache
+C:\Users\pc2\Documents\Visual Studio 2017\Projects\PinesRioNaya\PinesRioNaya\obj\Debug\PinesRioNaya.exe
+C:\Users\pc2\Documents\Visual Studio 2017\Projects\PinesRioNaya\PinesRioNaya\obj\Debug\PinesRioNaya.pdb
